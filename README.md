@@ -20,10 +20,10 @@ MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![IMG_7788 2](https://github.com/user-attachments/assets/c5f70c33-3a91-46f6-be15-e287d1c0c96f)
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+![Picture1](https://github.com/user-attachments/assets/01de2625-81a9-4bd3-8e1d-62508a91f728)
 
 HELP OPTION IN MENUBAR:
 ![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
